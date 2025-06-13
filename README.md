@@ -23,8 +23,8 @@
 ## 📊 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FedelanYTCLUB&repo=fedelanYTCLUB&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedelanYTCLUB&repo=fedelanYTCLUB&theme=radical&hide_border=true" alt="Racha de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=fedelanyt130&repo=fedelanyt130&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedelanyt130&repo=fedelanyt130&theme=radical&hide_border=true" alt="Racha de GitHub">
 </p>
 
 ----
