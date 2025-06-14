@@ -1,13 +1,5 @@
 <h1 align="center">☔ FEDELANYT ☔</h1>
 
- <img src= "https://github.com/fedelanyt130.png">
-    </p>
-
-
-## *HOLA SOY EDITOR DE BOT  DE A POCO VOY APRENDIENDO XD*
-
-## `ASUNA_BOT-Al EN DESARROLLO `
-
 </details>
 
 <div align="center">
