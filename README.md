@@ -20,7 +20,12 @@
 </p>
 
 ----
+<h3 align="left">🐍 Mi Gráfico de Contribuciones es un Juego de Serpiente:</h3>
+<p align="center">
+  <img src="https://github.com/fedelanyt130/fedelanyt130/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
+----
 </details>
 
 <div align="center">
