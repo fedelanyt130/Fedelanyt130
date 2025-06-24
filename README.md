@@ -19,11 +19,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fedelanyt130&repo=Fedelanyt130&theme=radical&hide_border=true" alt="Racha de GitHub">
 </p>
 
-----
-<h3 align="left">🐍 Mi Gráfico de Contribuciones es un Juego de Serpiente:</h3>
-<p align="center">
-  <img src="https://github.com/fedelanyt130/fedelanyt130/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ----
 </details>
